@@ -1,0 +1,24 @@
+TOPIC: Break and Continue
+
+OBJECTIVE
+Learn how to alter the normal flow of a loop.
+
+CONCEPTS
+- break
+- continue
+- Exiting a loop
+- Skipping an iteration
+
+PRACTICE
+1. Use break to stop a loop early.
+2. Use continue to skip an iteration.
+3. Observe the difference between break and continue.
+4. Use them inside for and while loops.
+
+CHALLENGE
+Create a loop that skips specific values and stops completely at another value.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

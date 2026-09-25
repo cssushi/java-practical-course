@@ -1,0 +1,26 @@
+TOPIC: Switch
+
+OBJECTIVE
+Learn how to select between multiple fixed cases using switch.
+
+CONCEPTS
+- switch
+- case
+- break
+- default
+- switch expressions/statements
+- Multiple cases
+
+PRACTICE
+1. Match an integer against several cases.
+2. Use break to prevent fall-through.
+3. Handle unmatched values with default.
+4. Experiment with multiple cases producing the same result.
+
+CHALLENGE
+Build a menu-style program where a number selects one of several actions.
+
+COMPLETED
+[ ] Theory
+[ ] Practice
+[ ] Challenge

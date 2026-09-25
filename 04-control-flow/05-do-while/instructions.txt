@@ -1,0 +1,23 @@
+TOPIC: Do-While Loops
+
+OBJECTIVE
+Understand loops that must execute their body at least once.
+
+CONCEPTS
+- do-while
+- Condition checked after execution
+- Difference between while and do-while
+
+PRACTICE
+1. Create a basic do-while loop.
+2. Use a condition that is initially true.
+3. Use a condition that is initially false.
+4. Compare the same condition using while and do-while.
+
+CHALLENGE
+Demonstrate a situation where while executes zero times but do-while executes once.
+
+COMPLETED
+[ ] Theory
+[ ] Practice
+[ ] Challenge

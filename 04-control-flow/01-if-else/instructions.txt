@@ -1,0 +1,27 @@
+TOPIC: If / Else
+
+OBJECTIVE
+Learn how Java makes decisions based on conditions.
+
+CONCEPTS
+- if
+- else
+- else if
+- Conditions
+- Code blocks
+- Nested conditions
+
+PRACTICE
+1. Execute code only when a condition is true.
+2. Provide an alternative using else.
+3. Handle multiple conditions using else if.
+4. Combine conditions using logical operators.
+5. Experiment with nested if statements.
+
+CHALLENGE
+Build a program that evaluates a student's marks and prints the appropriate result.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

@@ -1,0 +1,27 @@
+TOPIC: For Loops
+
+OBJECTIVE
+Learn how to repeat code a controlled number of times.
+
+CONCEPTS
+- for loop
+- Initialization
+- Condition
+- Update
+- Loop variable
+- Nested for loops
+
+PRACTICE
+1. Count upward with a for loop.
+2. Count downward.
+3. Change the increment amount.
+4. Use a loop variable in calculations.
+5. Create a nested loop.
+
+CHALLENGE
+Use loops to generate a structured output pattern.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

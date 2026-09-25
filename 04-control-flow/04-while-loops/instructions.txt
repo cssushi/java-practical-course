@@ -1,0 +1,26 @@
+TOPIC: While Loops
+
+OBJECTIVE
+Learn how to repeat code while a condition remains true.
+
+CONCEPTS
+- while
+- Loop condition
+- Updating loop variables
+- Infinite loops
+- for vs while
+
+PRACTICE
+1. Create a counting while loop.
+2. Count downward.
+3. Modify the loop condition.
+4. Observe what happens when the loop variable is not updated.
+5. Recreate a for loop using while.
+
+CHALLENGE
+Use a while loop to repeatedly perform an operation until a condition becomes false.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
