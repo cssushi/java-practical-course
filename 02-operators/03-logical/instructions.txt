@@ -1,0 +1,26 @@
+TOPIC: Logical Operators
+
+OBJECTIVE
+Learn how to combine boolean conditions.
+
+CONCEPTS
+- && AND
+- || OR
+- ! NOT
+- Combining comparison expressions
+- Short-circuit evaluation
+
+PRACTICE
+1. Combine two boolean conditions with &&.
+2. Combine conditions with ||.
+3. Negate conditions with !.
+4. Combine comparison operators with logical operators.
+5. Experiment with short-circuit evaluation.
+
+CHALLENGE
+Create a condition involving multiple requirements and print whether it is satisfied.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

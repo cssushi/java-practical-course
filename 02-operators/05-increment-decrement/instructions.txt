@@ -1,0 +1,25 @@
+TOPIC: Increment and Decrement
+
+OBJECTIVE
+Understand how ++ and -- modify a variable by one.
+
+CONCEPTS
+- ++ Increment
+- -- Decrement
+- Prefix increment/decrement
+- Postfix increment/decrement
+- Evaluation order
+
+PRACTICE
+1. Use ++ and -- as standalone statements.
+2. Compare ++x with x++.
+3. Compare --x with x--.
+4. Observe how prefix and postfix forms behave inside expressions.
+
+CHALLENGE
+Predict the output of expressions involving prefix and postfix operators before running them.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

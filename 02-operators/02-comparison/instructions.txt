@@ -1,0 +1,27 @@
+TOPIC: Comparison Operators
+
+OBJECTIVE
+Learn how Java compares values and produces boolean results.
+
+CONCEPTS
+- == Equal to
+- != Not equal to
+- > Greater than
+- < Less than
+- >= Greater than or equal to
+- <= Less than or equal to
+- Boolean comparison results
+
+PRACTICE
+1. Compare integers using all six operators.
+2. Store comparison results in boolean variables.
+3. Compare decimal values.
+4. Experiment with equal and unequal values.
+
+CHALLENGE
+Create a small program that compares two values and prints meaningful results.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

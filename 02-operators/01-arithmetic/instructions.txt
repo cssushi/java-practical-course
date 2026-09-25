@@ -1,0 +1,29 @@
+TOPIC: Arithmetic Operators
+
+OBJECTIVE
+Learn how Java performs mathematical operations using arithmetic operators.
+
+CONCEPTS
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Modulus (%)
+- Integer division
+- Decimal division
+- Operator precedence
+
+PRACTICE
+1. Perform the five basic arithmetic operations.
+2. Experiment with integer and decimal division.
+3. Use the modulus operator with different values.
+4. Combine multiple operators in one expression.
+5. Observe how parentheses change the result.
+
+CHALLENGE
+Create a small calculation that uses multiple arithmetic operators and produces a meaningful result.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

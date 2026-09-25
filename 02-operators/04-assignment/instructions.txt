@@ -1,0 +1,25 @@
+TOPIC: Assignment Operators
+
+OBJECTIVE
+Learn how Java assigns and updates variable values.
+
+CONCEPTS
+- =
+- +=
+- -=
+- *=
+- /=
+- %=
+
+PRACTICE
+1. Assign an initial value to a variable.
+2. Update it using each compound assignment operator.
+3. Observe how each operation changes the variable.
+
+CHALLENGE
+Create a variable representing a quantity and modify it through several operations.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
