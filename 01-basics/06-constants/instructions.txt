@@ -1,0 +1,24 @@
+TOPIC: Constants
+
+OBJECTIVE
+Learn how to create values that cannot be reassigned after initialization.
+
+CONCEPTS
+- final keyword
+- Constant declaration
+- Constant naming conventions
+- Compile-time errors caused by reassignment
+
+PRACTICE
+1. Declare constants using final.
+2. Use constants in calculations.
+3. Attempt to reassign a constant and observe the compiler error.
+4. Compare normal variables with final variables.
+
+CHALLENGE
+Create a simple geometry program using constants for values such as PI and calculate the area of a circle.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

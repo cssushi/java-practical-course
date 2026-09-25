@@ -1,0 +1,27 @@
+TOPIC: Type Casting
+
+OBJECTIVE
+Learn how Java converts values between compatible numeric data types.
+
+CONCEPTS
+- Widening conversion
+- Narrowing conversion
+- Implicit casting
+- Explicit casting
+- Data loss during narrowing
+
+PRACTICE
+1. Convert an int to a double.
+2. Convert a double to an int.
+3. Convert a short to an int.
+4. Convert an int to a byte using explicit casting.
+5. Observe what happens when a decimal is converted to an integer.
+6. Observe what happens when a value is too large for the target type.
+
+CHALLENGE
+Create a program that demonstrates both widening and narrowing conversions and prints the original and converted values.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

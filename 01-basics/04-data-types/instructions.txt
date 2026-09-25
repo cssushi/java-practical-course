@@ -1,0 +1,28 @@
+TOPIC: Data Types
+
+OBJECTIVE
+Understand Java's fundamental data types and choose an appropriate type for different kinds of values.
+
+CONCEPTS
+- int
+- double
+- float
+- long
+- char
+- boolean
+- String
+- Primitive vs reference types
+
+PRACTICE
+1. Declare variables using the fundamental types.
+2. Print their values and observe their output.
+3. Experiment with valid and invalid assignments.
+4. Observe compiler errors caused by incompatible types.
+
+CHALLENGE
+Create a small student profile using at least six different data types and print all stored values.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
