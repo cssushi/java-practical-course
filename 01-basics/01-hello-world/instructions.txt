@@ -1,0 +1,25 @@
+TOPIC: Hello World
+
+OBJECTIVE
+Learn the basic structure of a Java program and how to compile and run it.
+
+CONCEPTS
+- Classes
+- main() method
+- System.out.print()
+- System.out.println()
+- javac
+- java
+
+PRACTICE
+1. Create a basic Hello World program.
+2. Print multiple lines.
+3. Experiment with print() and println().
+
+CHALLENGE
+Create a formatted Java Journey introduction using multiple print and println statements.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

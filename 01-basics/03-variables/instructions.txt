@@ -1,0 +1,25 @@
+TOPIC: Variables
+
+OBJECTIVE
+Learn how Java stores and manipulates values using variables.
+
+CONCEPTS
+- Variable declaration
+- Variable initialization
+- Assignment
+- Variable reassignment
+- Basic variable usage
+
+PRACTICE
+1. Create variables for different pieces of information.
+2. Print variable values.
+3. Modify a variable after initialization.
+4. Use a variable in a calculation.
+
+CHALLENGE
+Create a small profile program that stores personal information and calculates a future value from one of the variables.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

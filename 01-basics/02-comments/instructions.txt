@@ -1,0 +1,23 @@
+TOPIC: Comments
+
+OBJECTIVE
+Learn how to add explanations and documentation to Java source code without affecting program execution.
+
+CONCEPTS
+- Single-line comments
+- Multi-line comments
+- Documentation comments
+
+PRACTICE
+1. Add comments to a Java program.
+2. Use single-line comments.
+3. Use multi-line comments.
+4. Verify that comments do not affect program output.
+
+CHALLENGE
+Write a small Java program containing all three comment styles while keeping the program functional.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
