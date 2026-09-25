@@ -22,6 +22,6 @@ CHALLENGE
 Create a formatted console report containing text, integers, and decimal values.
 
 COMPLETED
-[ ] Theory
-[ ] Practice
-[ ] Challenge
+[x] Theory
+[x] Practice
+[x] Challenge
