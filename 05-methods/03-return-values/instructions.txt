@@ -1,0 +1,26 @@
+TOPIC: Return Values
+
+OBJECTIVE
+Learn how methods can send a value back to the code that called them.
+
+CONCEPTS
+- Return types
+- return
+- void vs non-void methods
+- Storing returned values
+- Using returned values in expressions
+
+PRACTICE
+1. Create a method that returns an int.
+2. Store its returned value in a variable.
+3. Create methods returning double and String.
+4. Use returned values directly in calculations.
+5. Observe what happens when a method's return type does not match its returned value.
+
+CHALLENGE
+Create several calculation methods and use their returned results in main().
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

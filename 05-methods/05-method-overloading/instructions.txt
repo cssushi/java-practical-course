@@ -1,0 +1,24 @@
+TOPIC: Method Overloading
+
+OBJECTIVE
+Learn how multiple methods can have the same name but different parameter lists.
+
+CONCEPTS
+- Method overloading
+- Different parameter counts
+- Different parameter types
+- Method signature
+- Compile-time method selection
+
+PRACTICE
+1. Create overloaded methods with different parameter counts.
+2. Create overloaded methods with different parameter types.
+3. Call each version and observe which one Java selects.
+
+CHALLENGE
+Create a set of overloaded calculation methods that can handle different kinds of input.
+
+COMPLETED
+[ ] Theory
+[ ] Practice
+[ ] Challenge

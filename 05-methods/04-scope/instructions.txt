@@ -1,0 +1,27 @@
+TOPIC: Scope
+
+OBJECTIVE
+Understand where variables exist and where they can be accessed.
+
+CONCEPTS
+- Local scope
+- Method scope
+- Block scope
+- Parameters
+- Variable lifetime
+- Same variable name in different scopes
+
+PRACTICE
+1. Create a local variable inside main().
+2. Create a local variable inside another method.
+3. Try accessing each variable from the wrong scope.
+4. Create variables with the same name in different methods.
+5. Observe which variables are accessible inside nested blocks.
+
+CHALLENGE
+Create a program that demonstrates at least three different scopes and identify which variables are accessible from each location.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

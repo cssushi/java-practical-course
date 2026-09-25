@@ -1,0 +1,25 @@
+TOPIC: Method Parameters
+
+OBJECTIVE
+Learn how to pass data into methods.
+
+CONCEPTS
+- Parameters
+- Arguments
+- Parameter types
+- Multiple parameters
+- Passing values to methods
+
+PRACTICE
+1. Create a method that accepts one parameter.
+2. Call it with different values.
+3. Create a method with multiple parameters.
+4. Use parameters inside calculations.
+
+CHALLENGE
+Create methods that perform operations using values supplied by main().
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

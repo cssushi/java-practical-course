@@ -1,0 +1,27 @@
+TOPIC: Basic Methods
+
+OBJECTIVE
+Learn how to define and call reusable blocks of code.
+
+CONCEPTS
+- Method declaration
+- Method body
+- Method call
+- static methods
+- void
+- Method naming
+
+PRACTICE
+1. Create a method that prints a message.
+2. Call the method from main().
+3. Create multiple methods.
+4. Call the same method multiple times.
+5. Observe the difference between defining and calling a method.
+
+CHALLENGE
+Break a small program into several meaningful methods instead of putting everything inside main().
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
