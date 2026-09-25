@@ -1,0 +1,25 @@
+TOPIC: User Input
+
+OBJECTIVE
+Use user input to perform calculations and produce dynamic output.
+
+CONCEPTS
+- Reading different input types
+- Variables from user input
+- Arithmetic with input
+- Combining input and output
+- Input validation basics
+
+PRACTICE
+1. Read two numbers from the user.
+2. Perform calculations using those values.
+3. Read text and incorporate it into output.
+4. Use different input types in the same program.
+
+CHALLENGE
+Build a small interactive calculator that accepts two numbers and displays their sum, difference, product, quotient, and remainder.
+
+COMPLETED
+[ ] Theory
+[ ] Practice
+[ ] Challenge

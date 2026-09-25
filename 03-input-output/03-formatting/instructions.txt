@@ -1,0 +1,27 @@
+TOPIC: Output Formatting
+
+OBJECTIVE
+Learn different ways to format values when displaying output.
+
+CONCEPTS
+- String concatenation
+- printf()
+- Format specifiers
+- Decimal precision
+- Width and alignment
+- Escape sequences
+
+PRACTICE
+1. Use printf() instead of println().
+2. Format integers and decimal values.
+3. Control the number of decimal places.
+4. Use escape sequences to structure output.
+5. Experiment with field width and alignment.
+
+CHALLENGE
+Create a formatted console report containing text, integers, and decimal values.
+
+COMPLETED
+[ ] Theory
+[ ] Practice
+[ ] Challenge

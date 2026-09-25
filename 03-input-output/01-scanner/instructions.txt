@@ -1,0 +1,28 @@
+TOPIC: Scanner
+
+OBJECTIVE
+Learn how Java receives input from the user through the console.
+
+CONCEPTS
+- Scanner
+- System.in
+- nextInt()
+- nextDouble()
+- next()
+- nextLine()
+- Input and variables
+
+PRACTICE
+1. Read an integer from the user.
+2. Read a decimal number.
+3. Read a single word.
+4. Read a full line of text.
+5. Store input in variables and use it in calculations.
+
+CHALLENGE
+Create a program that collects several pieces of information from the user and prints them back.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
