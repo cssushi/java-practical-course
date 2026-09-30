@@ -1,0 +1,31 @@
+TOPIC: StringBuilder
+
+OBJECTIVE
+Learn how to efficiently build and modify Strings using StringBuilder.
+
+CONCEPTS
+- Creating a StringBuilder
+- append()
+- insert()
+- delete()
+- replace()
+- reverse()
+- toString()
+
+PRACTICE
+1. Create a StringBuilder.
+2. Add text using append().
+3. Insert text at a specific position.
+4. Delete characters.
+5. Replace characters.
+6. Reverse the contents.
+7. Convert StringBuilder back to String.
+
+CHALLENGE
+Build and modify a StringBuilder through several operations
+and produce the required final output.
+
+COMPLETED
+[ ] Theory
+[ ] Practice
+[ ] Challenge

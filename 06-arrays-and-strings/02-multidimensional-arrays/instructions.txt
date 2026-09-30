@@ -1,0 +1,29 @@
+TOPIC: Multidimensional Arrays
+
+OBJECTIVE
+Learn how to store and process data using 2D arrays.
+
+CONCEPTS
+- Declaring and initializing 2D arrays
+- Rows and columns
+- Accessing elements with [row][column]
+- .length for rows and individual rows
+- Nested loops
+- Arrays of arrays
+- Jagged arrays
+
+PRACTICE
+1. Create a 2D array of student marks.
+2. Access individual elements.
+3. Traverse the array using nested loops.
+4. Calculate row/student totals and averages.
+5. Calculate an overall average.
+
+CHALLENGE
+Create a program that displays student marks and calculates
+each student's average and the overall class average.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

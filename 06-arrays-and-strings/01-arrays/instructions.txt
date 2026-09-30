@@ -1,0 +1,28 @@
+TOPIC: Arrays
+
+OBJECTIVE
+Learn how to store and work with multiple values of the same type.
+
+CONCEPTS
+- Array declaration
+- Array initialization
+- Array indexing
+- Zero-based indexing
+- Array length
+- Modifying elements
+- Looping through arrays
+
+PRACTICE
+1. Create an array of integers.
+2. Access individual elements by index.
+3. Modify an element.
+4. Use length to determine the number of elements.
+5. Loop through an array.
+
+CHALLENGE
+Process an array of numbers and calculate useful information from its contents.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

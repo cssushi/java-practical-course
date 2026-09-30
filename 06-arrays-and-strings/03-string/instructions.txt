@@ -1,0 +1,30 @@
+TOPIC: Strings
+
+OBJECTIVE
+Learn how to create, compare, access, and manipulate String values.
+
+CONCEPTS
+- Creating Strings
+- String indexing
+- String length
+- charAt()
+- String concatenation
+- equals()
+- toUpperCase() and toLowerCase()
+- substring()
+
+PRACTICE
+1. Create and print Strings.
+2. Find the length of a String.
+3. Access individual characters.
+4. Compare Strings correctly.
+5. Extract parts of a String.
+6. Change String case.
+
+CHALLENGE
+Create a program that analyzes and manipulates a user's name.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
