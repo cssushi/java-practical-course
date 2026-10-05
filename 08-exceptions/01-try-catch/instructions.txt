@@ -1,0 +1,28 @@
+TOPIC: try-catch
+
+OBJECTIVE
+Learn how to handle exceptions without terminating the program.
+
+CONCEPTS
+- Exceptions
+- try block
+- catch block
+- Exception types
+- Exception objects
+- Handling runtime errors
+
+PRACTICE
+1. Create code that can produce an exception.
+2. Place the risky code inside try.
+3. Catch the appropriate exception.
+4. Display a useful message when the exception occurs.
+5. Verify that the program continues after the catch block.
+
+CHALLENGE
+Create a program that safely handles division by zero and
+continues executing afterward.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

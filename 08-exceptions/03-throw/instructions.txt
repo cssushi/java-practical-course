@@ -1,0 +1,26 @@
+TOPIC: throw
+
+OBJECTIVE
+Learn how to explicitly throw exceptions when a program detects
+invalid data or an invalid state.
+
+CONCEPTS
+- throw
+- Creating exception objects
+- IllegalArgumentException
+- Custom error messages
+- throw vs throws
+
+PRACTICE
+1. Validate user or program data.
+2. Throw an appropriate exception when the data is invalid.
+3. Catch and handle the exception.
+
+CHALLENGE
+Create a method that rejects invalid input by throwing an
+IllegalArgumentException.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

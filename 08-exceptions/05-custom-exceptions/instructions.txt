@@ -1,0 +1,27 @@
+TOPIC: Custom Exceptions
+
+OBJECTIVE
+Learn how to create exception classes specific to an application's
+own rules and requirements.
+
+CONCEPTS
+- Custom exception classes
+- extends Exception
+- Exception constructors
+- super(message)
+- throw custom exceptions
+- throws custom exceptions
+
+PRACTICE
+1. Create a custom exception class.
+2. Give it a constructor that accepts a message.
+3. Throw the custom exception when invalid data is detected.
+4. Handle the custom exception with try-catch.
+
+CHALLENGE
+Create an InvalidAgeException and use it to reject an invalid age.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

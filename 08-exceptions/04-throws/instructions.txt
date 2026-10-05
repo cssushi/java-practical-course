@@ -1,0 +1,26 @@
+TOPIC: throws
+
+OBJECTIVE
+Learn how methods declare exceptions that callers must handle
+or pass onward.
+
+CONCEPTS
+- throws keyword
+- Declaring exceptions
+- Checked exceptions
+- Caller responsibility
+- throw vs throws
+
+PRACTICE
+1. Create a method that declares a checked exception.
+2. Call that method from main.
+3. Handle the exception with try-catch.
+
+CHALLENGE
+Create a method that declares IOException using throws and
+handle the exception in main.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

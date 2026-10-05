@@ -1,0 +1,27 @@
+TOPIC: finally
+
+OBJECTIVE
+Learn how to execute cleanup or final code regardless of whether
+an exception occurs.
+
+CONCEPTS
+- finally block
+- try-catch-finally
+- Execution after exceptions
+- Cleanup operations
+
+PRACTICE
+1. Create a try-catch block.
+2. Add a finally block.
+3. Test the program with an exception.
+4. Test the program without an exception.
+5. Observe that finally runs in both cases.
+
+CHALLENGE
+Create a program that demonstrates finally running both when an
+exception occurs and when execution succeeds.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
