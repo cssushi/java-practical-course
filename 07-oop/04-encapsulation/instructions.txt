@@ -1,0 +1,28 @@
+TOPIC: Encapsulation
+
+OBJECTIVE
+Learn how to protect an object's internal data and control access
+to it through methods.
+
+CONCEPTS
+- private fields
+- public methods
+- Getters
+- Setters
+- Data validation
+- Encapsulation
+
+PRACTICE
+1. Make instance variables private.
+2. Create getter methods to read private data.
+3. Create setter methods to modify private data.
+4. Add validation inside setters.
+
+CHALLENGE
+Create a class with private data and prevent invalid values
+from being assigned through a setter.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

@@ -1,0 +1,27 @@
+TOPIC: super Keyword
+
+OBJECTIVE
+Learn how a child class can access members of its parent class.
+
+CONCEPTS
+- super keyword
+- super.field
+- super.method()
+- super(...) constructor call
+- Parent constructor initialization
+
+PRACTICE
+1. Create a parent class with fields and a method.
+2. Create a child class using extends.
+3. Use super(...) to call the parent constructor.
+4. Use super.field to access parent data.
+5. Use super.method() to call parent behavior.
+
+CHALLENGE
+Create a parent and child class where the child constructor
+initializes inherited data using super(...).
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

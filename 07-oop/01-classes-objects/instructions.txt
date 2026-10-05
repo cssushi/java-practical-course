@@ -1,0 +1,29 @@
+TOPIC: Classes & Objects
+
+OBJECTIVE
+Understand the foundation of Object-Oriented Programming in Java.
+
+CONCEPTS
+- Classes
+- Objects
+- Instance variables
+- Instance methods
+- Creating objects with new
+- Accessing object data
+- Calling object methods
+
+PRACTICE
+1. Create a class that represents a real-world entity.
+2. Add instance variables to the class.
+3. Create objects from the class.
+4. Assign values to object variables.
+5. Call instance methods through objects.
+
+CHALLENGE
+Create multiple objects from the same class and demonstrate
+that each object can contain different data.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

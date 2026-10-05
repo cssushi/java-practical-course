@@ -1,0 +1,27 @@
+TOPIC: Constructors
+
+OBJECTIVE
+Learn how to initialize objects automatically when they are created.
+
+CONCEPTS
+- Constructors
+- Constructor syntax
+- Constructor parameters
+- Object initialization
+- Default constructor
+- Parameterized constructor
+
+PRACTICE
+1. Create a constructor for a class.
+2. Accept values through constructor parameters.
+3. Assign parameters to instance variables.
+4. Create objects using the constructor.
+
+CHALLENGE
+Create multiple objects using a parameterized constructor and
+display their information.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

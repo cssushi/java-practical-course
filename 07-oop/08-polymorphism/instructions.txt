@@ -1,0 +1,28 @@
+TOPIC: Polymorphism
+
+OBJECTIVE
+Understand how one parent type can refer to objects of different
+child types.
+
+CONCEPTS
+- Polymorphism
+- Parent references
+- Child objects
+- Runtime polymorphism
+- Dynamic method dispatch
+- Overridden methods
+
+PRACTICE
+1. Create a parent class with a method.
+2. Create multiple child classes that override the method.
+3. Store child objects in parent-type references.
+4. Call the overridden method through those references.
+
+CHALLENGE
+Create multiple child objects and use a parent-type reference
+to demonstrate that each object produces different behavior.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

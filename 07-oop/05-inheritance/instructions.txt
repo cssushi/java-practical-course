@@ -1,0 +1,27 @@
+TOPIC: Inheritance
+
+OBJECTIVE
+Learn how one class can inherit fields and methods from another class.
+
+CONCEPTS
+- Parent/superclass
+- Child/subclass
+- extends
+- Inherited fields
+- Inherited methods
+- Adding child-specific behavior
+
+PRACTICE
+1. Create a parent class.
+2. Create child classes using extends.
+3. Access inherited fields and methods.
+4. Add fields and methods specific to child classes.
+
+CHALLENGE
+Create a parent class and multiple child classes that reuse
+common functionality while having their own behavior.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

@@ -1,0 +1,29 @@
+TOPIC: Method Overriding
+
+OBJECTIVE
+Learn how a child class can provide its own implementation of
+a method inherited from its parent.
+
+CONCEPTS
+- Method overriding
+- @Override annotation
+- Same method name and parameters
+- Child-specific behavior
+- Calling the parent version with super
+
+PRACTICE
+1. Create a parent class with a method.
+2. Create a child class using extends.
+3. Override the parent's method.
+4. Use @Override.
+5. Call the overridden method through a child object.
+6. Use super.method() to call the parent implementation.
+
+CHALLENGE
+Create multiple child classes that override the same parent
+method with different behavior.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge

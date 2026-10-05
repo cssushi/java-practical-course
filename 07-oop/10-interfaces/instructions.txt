@@ -1,0 +1,28 @@
+TOPIC: Interfaces
+
+OBJECTIVE
+Learn how interfaces define contracts that classes must implement.
+
+CONCEPTS
+- Interfaces
+- implements
+- Interface methods
+- @Override
+- Multiple interfaces
+- Interface references
+- Interfaces vs inheritance
+
+PRACTICE
+1. Create an interface with a method.
+2. Implement the interface in a class.
+3. Implement the required method.
+4. Use an interface reference to work with the object.
+
+CHALLENGE
+Create a class that implements two different interfaces and
+provides the required behavior for both.
+
+COMPLETED
+[x] Theory
+[x] Practice
+[x] Challenge
